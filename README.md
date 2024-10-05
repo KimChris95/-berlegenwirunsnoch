@@ -10,3 +10,4 @@
 
 ## Sonstige Befehle 
 1. git status = Schaut ob das Repo Aktuell ist 
+2. git clone "repolink" = Klont ein neues Repo 
