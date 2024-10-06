@@ -39,11 +39,9 @@ def create_gamefield() :
 
 if __name__ == "__main__":
     print("Text adventure")
-
     x = None 
     y = None 
     gamer_positon = [x, y]
-    
     gamefield_dict, gamefield_dataframe = create_gamefield()
     
     
